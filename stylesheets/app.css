@@ -24,5 +24,8 @@ input#mce-EMAIL.email {
 	height: 40px;
 	font-size: 17px; }
 
+ul {
+	list-style: none; }
+
 .whiteBg {
 	background-color: rgba(255,255,255,0.9); }
