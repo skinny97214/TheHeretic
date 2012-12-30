@@ -3,12 +3,17 @@ layout: default
 title: Archive
 ---
 <div class="row">
-	<div class="ten columns offset-by-one whiteBg">
+	<div class="eight columns offset-by-two whiteBg">
 		<h1>Archive</h1>
+		<p>Here's the complete archive of The Heretic's ramblings (in case you just joined us or missed one).</p>
+		<p>You should subscribe - it's fun.</p>
+		<hr />
 		<ul>
 		{% for post in site.posts %}
 			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> ({{ post.date | date_to_string}})</li>
 		{% endfor %}
 		</ul>
+		<hr />
+		<p class="text-center"><a href="http://finette.com/"><img src="{{ site.baseurl }}/images/heretic.png" alt="The Heretic" /></a><br />The Heretic is <a href="http://finette.com/">Pascal Finette</a>.</p>
 	</div>
 </div>
