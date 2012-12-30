@@ -4,6 +4,7 @@ title: Archive
 ---
 <div class="row">
 	<div class="ten columns offset-by-one whiteBg">
+		<h1>Archive</h1>
 		<ul>
 		{% for post in site.posts %}
 			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> ({{ post.date | date_to_string}})</li>
