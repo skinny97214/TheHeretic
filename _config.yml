@@ -5,8 +5,7 @@ url: http://theheretic.me
 markdown: rdiscount
 
 permalink: /:year/:month/:day/:title
-lsi: true
-paginate: 10
+lsi: false
 
 exclude:
 - CNAME
