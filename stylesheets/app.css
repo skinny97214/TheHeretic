@@ -5,7 +5,7 @@
 
 body {
 	background: #d4d4cc url(../images/bg.jpg) no-repeat left top;
-	background-size: cover;
+	background-size: 100%;
 	margin: 50px 0; }
 
 h1, h2, h3, h4, h5, h6, p, b, strong, small, em, label, input#mce-EMAIL.email {
