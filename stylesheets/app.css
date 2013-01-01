@@ -25,11 +25,11 @@ input#mce-EMAIL.email {
 	font-size: 17px; }
 
 ul {
-	list-style: circle; }
+	list-style: none; }
 
 li {
 	padding-left: 12px;
-	color: #CCC;
+	color: #AAA;
 }
 
 .whiteBg {
