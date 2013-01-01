@@ -27,5 +27,13 @@ input#mce-EMAIL.email {
 ul {
 	list-style: none; }
 
+ul li:before {
+	content: "&mdash;";
+	position: relative;
+	left: -5px; }
+
+ul li {
+	text-indent: -5px; }
+
 .whiteBg {
 	background-color: rgba(255,255,255,0.9); }
