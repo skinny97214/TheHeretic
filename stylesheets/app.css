@@ -25,7 +25,7 @@ input#mce-EMAIL.email {
 	font-size: 17px; }
 
 ul {
-	list-style: none; }
+	list-style: circle; }
 
 li {
 	padding-left: 12px;
