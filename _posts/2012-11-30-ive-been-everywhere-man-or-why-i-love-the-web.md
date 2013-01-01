@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2012-11-30
-title: I've Been Everywhere Man - Or: Why I love the Web
+title: I've Been Everywhere Man - or Why I love the Web
 ---
 At this year's London Music Hack Iain Mullan created [this totally hilarious and awesome hack](http://iainmullan.com/johnny-cash/) of Johnny Cash's song "I've Been Everywhere Man".
 
