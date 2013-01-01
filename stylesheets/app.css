@@ -29,8 +29,17 @@ ul {
 
 li {
 	padding-left: 12px;
-	color: #AAA;
-}
+	color: #AAA; }
 
 .whiteBg {
 	background-color: rgba(255,255,255,0.9); }
+
+/* -----------------------------------------
+   404
+----------------------------------------- */
+#error {
+	background: #000 ('../images/404.jpg') no-repeat center center;
+	background-size: cover; }
+
+#error h1 {
+	color: #FFF; }
