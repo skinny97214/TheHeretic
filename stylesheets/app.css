@@ -37,9 +37,5 @@ li {
 /* -----------------------------------------
    404
 ----------------------------------------- */
-#error {
-	background: #000 ('../images/404.jpg') no-repeat center center;
-	background-size: cover; }
-
 #error h1 {
 	color: #FFF; }
