@@ -7,4 +7,4 @@ A little while ago I had the honor and pleasure to keynote the [Joomla! World Co
 
 It was a great experience as the audience was wonderful and played along beautifully. In case you have an hour to waste - here's the video:
 
-<p><iframe width="560" height="315" src="http://www.youtube.com/embed/n6e5S80PRBQ" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/n6e5S80PRBQ?rel=0" frameborder="0" allowfullscreen></iframe></p>
