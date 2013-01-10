@@ -29,7 +29,13 @@ ul {
 
 li {
 	padding-left: 12px;
-	color: #AAA; }
+	color: #aaa; }
+
+a {
+	color: #3b5998; }
+
+a:hover {
+	color: #8b9dc3; }
 
 .whiteBg {
 	background-color: rgba(255,255,255,0.9); }
