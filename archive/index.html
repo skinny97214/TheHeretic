@@ -6,7 +6,7 @@ title: Archive
 <p>Here's the complete archive of The Heretic's ramblings (in case you just joined the newsletter or missed one).</p>
 <p><strong>You really should <a href="/">subscribe</a> - it's fun.</strong></p>
 <hr />
-<ul>
+<ul class="archive">
 {% for post in site.posts %}
 	<li>_ <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> &mdash; {{ post.date | date_to_string}}</li>
 {% endfor %}

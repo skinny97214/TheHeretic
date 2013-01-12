@@ -27,10 +27,10 @@ input#mce-EMAIL.email {
 	height: 40px;
 	font-size: 17px; }
 
-ul {
+ul.archive {
 	list-style: none; }
 
-li {
+.archive li {
 	padding-left: 12px;
 	color: #aaa; }
 
