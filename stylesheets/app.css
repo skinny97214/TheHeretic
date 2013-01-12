@@ -11,7 +11,7 @@ body {
 	background: #d4d4cc url(../images/bg.jpg) no-repeat left top;
 	background-size: 100%; }
 
-h1, h2, h3, h4, h5, h6, p, b, strong, small, em, label, input#mce-EMAIL.email {
+h1, h2, h3, h4, h5, h6, p, b, strong, small, em, label, li, input#mce-EMAIL.email {
 	font-family: 'Ubuntu', sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,10 +27,10 @@ input#mce-EMAIL.email {
 	height: 40px;
 	font-size: 17px; }
 
-ul.archive {
+#archive {
 	list-style: none; }
 
-.archive li {
+#archive li {
 	padding-left: 12px;
 	color: #aaa; }
 
