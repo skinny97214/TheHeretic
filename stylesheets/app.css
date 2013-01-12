@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6, p, b, strong, small, em, label, li, input#mce-EMAIL.emai
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400; }
 
-p, em, label, input#mce-EMAIL.email {
+p, em, label, li, input#mce-EMAIL.email {
 	font-weight: 300; }
 
 b, strong {
