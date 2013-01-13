@@ -16,13 +16,17 @@ Simple and obvious, eh?
 The crazy thing is - I get tons of decks which make me literally go "WTF?!" Let me illustrate the point. Here are two pitches which get it right (names and some product details have been changed):
 
 > What is ACME CORP
+>
 > A unique coffee subscription business...
 > 
 > 1) Rare, unique, single-origin coffee
+>
 > 2) Freshly roasted to order each month
+>
 > 3) A different coffee every month, curated by experts
 > 
 > delivered monthly through the letterbox
+>
 > A subscription-only business – sign up online – available for self-purchase or as a special gift
 
 You get it, right? As an investor (or someone they want to partner with for that matter) I understand what they are doing, it's clear, concise and easy.
