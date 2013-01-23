@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-12 08:51:00
 title: The Essence of Leadership
 ---

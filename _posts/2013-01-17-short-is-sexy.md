@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-17 8:18:00
 title: Short is Sexy
 ---

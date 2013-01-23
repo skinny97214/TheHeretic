@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2012-12-15
 title: Linking Mission to Strategy and Action
 ---

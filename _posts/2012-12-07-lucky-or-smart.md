@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2012-12-07
 title: Lucky or Smart?
 ---

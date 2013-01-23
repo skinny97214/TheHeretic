@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-19 15:48:00
 title: First Mover Advantage
 ---

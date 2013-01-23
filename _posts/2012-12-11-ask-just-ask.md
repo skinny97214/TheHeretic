@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2012-12-11
 title: Ask. Just ask.
 ---

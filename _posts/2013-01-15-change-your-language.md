@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-15 8:56:00
 title: Change your Language
 ---

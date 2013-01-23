@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-18 11:41:00
 title: True Passion
 ---

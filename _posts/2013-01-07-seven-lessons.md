@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-07 18:05:00
 title: Seven Lessons
 ---
