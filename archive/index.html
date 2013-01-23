@@ -8,6 +8,6 @@ title: Archive
 <hr />
 <ul id="archive">
 	{% for post in site.posts %}
-		<li>_ <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> &mdash; {{ post.date | date_to_string}} {% if page.tags.size > 0 %}{% for tag in page.tags %}<span class="secondary radius label">{{ tag }}</span> {% endfor %}{% endif %}</li>
+		<li>_ <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> &mdash; {{ post.date | date_to_string}} {% if page.tags.size > 0 %}<span class="secondary radius label">Highlight</span>{% endif %}</li>
 	{% endfor %}
 </ul>

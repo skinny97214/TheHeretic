@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [highlight]
 date: 2013-01-21 09:43:00
 title: Polarize on Purpose
 ---
