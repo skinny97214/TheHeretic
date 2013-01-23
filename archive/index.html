@@ -3,11 +3,11 @@ layout: default
 title: Archive
 ---
 <h1>Archive</h1>
-<p>Here's the complete archive of The Heretic's ramblings (in case you just joined the newsletter or missed one).</p>
+<p>Here's the complete archive of The Heretic's ramblings (in case you just joined the newsletter or missed one). Start with the ones tagged with: <span class="secondary radi	us label">Highlight</span></p>
 <p><strong>You really should <a href="/">subscribe</a> - it's fun.</strong></p>
 <hr />
 <ul id="archive">
 	{% for post in site.posts %}
-		<li>_ <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> &mdash; {{ post.date | date_to_string}} {% if post.tags.size > 0 %}<span class="secondary radius label">Highlight</span>{% endif %}</li>
+		<li>_ <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> &mdash; {{ post.date | date_to_string}} {% if post.tags.size > 0 %}<span class="secondary radi	us label">Highlight</span>{% endif %}</li>
 	{% endfor %}
 </ul>
