@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [highlight]
+tags: [Featured]
 date: 2013-01-09 18:12:00
 title: Don't Die in Beauty - Part 2
 ---

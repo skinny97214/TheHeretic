@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [highlight]
+tags: [Featured]
 date: 2012-12-14
 title: Quality over Quantity
 ---

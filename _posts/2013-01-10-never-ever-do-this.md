@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [highlight]
+tags: [Featured]
 date: 2013-01-10 10:35:00
 title: Never Ever Do This
 ---

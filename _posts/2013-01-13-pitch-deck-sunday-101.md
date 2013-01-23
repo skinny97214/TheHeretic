@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [highlight]
+tags: [Featured]
 date: 2013-01-13 07:42:00
 title: Pitch Deck Sunday - 101
 ---
