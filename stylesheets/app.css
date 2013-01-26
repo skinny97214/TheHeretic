@@ -30,7 +30,7 @@ a:hover {
 	color: #8b9dc3; }
 
 ul {
-	padding-left: 34px; }
+	padding-left: 17px; }
 
 input#mce-EMAIL.email {
 	height: 40px;
@@ -38,9 +38,6 @@ input#mce-EMAIL.email {
 
 #archive {
 	list-style: none; }
-
-#archive ul {
-	padding-left: 17px; }
 
 #archive li {
 	color: #aaa; }
