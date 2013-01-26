@@ -23,6 +23,15 @@ p, em, label, li, input#mce-EMAIL.email {
 b, strong {
 	font-weight: 500; }
 
+a {
+	color: #3b5998; }
+
+a:hover {
+	color: #8b9dc3; }
+
+ul {
+	padding-left: 34px; }
+
 input#mce-EMAIL.email {
 	height: 40px;
 	font-size: 17px; }
@@ -33,12 +42,6 @@ input#mce-EMAIL.email {
 #archive li {
 	padding-left: 12px;
 	color: #aaa; }
-
-a {
-	color: #3b5998; }
-
-a:hover {
-	color: #8b9dc3; }
 
 #wrapper {
 	height: 100%;
