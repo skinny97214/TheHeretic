@@ -39,8 +39,10 @@ input#mce-EMAIL.email {
 #archive {
 	list-style: none; }
 
+#archive ul {
+	padding-left: 17px; }
+
 #archive li {
-	padding-left: 12px;
 	color: #aaa; }
 
 #wrapper {
