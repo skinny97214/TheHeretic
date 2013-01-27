@@ -8,6 +8,7 @@ It's Sunday again. THAT Sunday. Time to dissect your pitch deck and make it bett
 Let's talk about advisors. Typically you add them to your team slide. And most of the time you see something along the lines of a list of names a la "John Doe, Founder ACME Corp.", sometimes with a picture.
 
 Here's the deal - advisors provide two signals for an investor:
+
 1. Instant credibility if you have "brand name" advisors
 2. A strong support network
 
