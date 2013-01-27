@@ -8,8 +8,8 @@ It's Sunday again. THAT Sunday. Time to dissect your pitch deck and make it bett
 Let's talk about advisors. Typically you add them to your team slide. And most of the time you see something along the lines of a list of names a la "John Doe, Founder ACME Corp.", sometimes with a picture.
 
 Here's the deal - advisors provide two signals for an investor:
-(1) Instant credibility if you have "brand name" advisors
-(2) A strong support network
+1. Instant credibility if you have "brand name" advisors
+2. A strong support network
 
 The first one only works if you have truly recognizable names which are relevant to your field. Sergey Brin works, a random director at a large company doesn't. The second one is trickier. In pitch presentations I often wonder what those people actually do for you - as often the entrepreneurs either just rattle down the names of the advisors on their slide or even glance over them and say something to the tune of "… and we have a bunch of awesome advisors".
 
