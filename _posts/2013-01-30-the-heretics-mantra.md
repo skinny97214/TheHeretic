@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-01-30 00:00:00
-title: A Heretic's Mantra
+title: The Heretic's Mantra
 ---
 Today is my birthday. So I will leave you with my mantra - may it serve you well.
 
