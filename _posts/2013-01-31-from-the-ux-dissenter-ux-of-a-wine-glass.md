@@ -7,7 +7,7 @@ In the very best tradition of the finest entrepreneurs "The Heretic" started out
 
 Today I am incredibly excited to announce a new feature - The Heretic welcomes three unbelievably awesome **Dissenters** who will bring you regular columns about their area of deep expertise, all in the heretic style you came to expect and love. 
 
-[Jane Finette](http://janefinette.com/) will take the bullshit out of marketing; [Crystal Beasely](http://skinnywhitegirl.com/blog/) will yell at your poor UX/UI and design and [Lloyd Hilaiel](http://lloyd.io/) will drill technology into your body.
+[Jane Finette](http://janefinette.com/) will take the bullshit out of marketing; [Crystal Beasley](http://skinnywhitegirl.com/blog/) will yell at your poor UX/UI and design and [Lloyd Hilaiel](http://lloyd.io/) will drill technology into your body.
 
 Without much further ado - here's the first column from our UX Dissenter Crystal:
 
