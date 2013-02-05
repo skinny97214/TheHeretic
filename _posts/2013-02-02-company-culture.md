@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Featured]
 date: 2013-02-02 18:31:00
 title: Company Culture
 ---
