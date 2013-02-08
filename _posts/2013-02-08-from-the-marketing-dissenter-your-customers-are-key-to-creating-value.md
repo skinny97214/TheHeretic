@@ -25,5 +25,4 @@ As mentioned, these ideas are certainly not new, but the lack of focus from mark
 
 How many marketing $$ do you have to spend? If I had to make a bet - you should spend it on customer advocacy. This is the new era of marketing, and this is what creates relevance.
 
-// >
-You can reach the Marketing Dissenter Jane Finette at jane [at] finette.com and on follow her on Twitter at [@janefinette](https://twitter.com/janefinette)
+> You can reach the Marketing Dissenter Jane Finette at jane [at] finette.com and follow her on Twitter at [@janefinette](https://twitter.com/janefinette)
