@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Featured]
 date: 2013-02-09 19:14:00
 title: On Leadership
 ---
