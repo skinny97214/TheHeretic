@@ -7,4 +7,6 @@ Whatever hideous superlative bullshit word you want to use to describe the rare 
 
 For me there is nothing, literally nothing, more rewarding than working with these individuals. They inspire me, they challenge me and they bring out the very best in me.
 
-When it comes to finding your cofounders, your initial team or making those oh-so important first hires **don't settle for anything less** than the very best people you can find. If their intellect, their energy and drive scare you - they are the right people for your endeavor.
+When it comes to finding your cofounders, your initial team or making those oh-so important first hires don't settle for anything less than the very best people you can find. If their intellect, their energy and drive scare the shit out of you – they are the right people for your endeavor.
+
+**Don't settle for anything less. You owe it to your venture.**
