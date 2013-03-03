@@ -13,7 +13,7 @@ Here's the thing about your business model slide in your pitch deck: If you spen
 
 With that being said: How does a great business model slide look like? It really depends on what your business model is (or you believe it is to be precise – as these things tend to change). What I would look for is a clear expression of your model, the underlying assumptions and the way the model works out. Often this can be neatly expressed in an info graphic - showing where and how the money comes in, how the value chain looks like and what the margins are alongside the chain. Here's an example - it's not perfect yet much better than simply expressing your model as "we take a 25% margin".
 
-![Business Model Slide Example](http://theheretic.me/images/2013-03-03-business-model.jpg)
+![Business Model Slide Example](http://theheretic.me/images/posts/2013-03-03-business-model.jpg)
 
 Spend some time on your business model slide. Make it clear and concise. The litmus test is: Show someone who doesn't know anything about your company just this one slide and ask them to explain back to you your business model. If they get it and they get it in its entirety you are off to the races.
 
