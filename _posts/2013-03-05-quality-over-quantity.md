@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-02-05 11:53:00
+date: 2013-03-05 11:53:00
 title: Quality over Quantity
 ---
 Colin Powell calls them "busy bastards".
