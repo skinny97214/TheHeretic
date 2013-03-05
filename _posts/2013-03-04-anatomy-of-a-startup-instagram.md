@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-03-04 14:06:00
-title: Anatomy of a Startup: Instagram
+title: Anatomy of a Startup - Instagram
 ---
 A lot can be learned from those who came before us. Putting a startup under the microscope, slicing it open and carefully dissecting its innards can not only be entertaining but also highly informative.
 
