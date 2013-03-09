@@ -13,4 +13,4 @@ As much as we have to show up "ready" and not let our own self-doubt and fear le
 
 There are many ways to get there: Friends of mine started their own little "startup anonymous" group where they get together once a week over pizza and beer and just be themselves. Others have found another founder in a different startup who became their sister/brother in arms. Whatever it is – make sure you acknowledge the fact that counseling is okay and needed.
 
-We want you to be a Marine, not a superhero.
+**We want you to be a Marine, not a superhero.**
