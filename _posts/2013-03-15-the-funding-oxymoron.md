@@ -14,6 +14,6 @@ Say your snazzy little startup raises $1 million for 20% of the company (for the
 
 In this scenario the deck is already stacked against you. If someone comes along and offers you a sweet $4 million for your just hatched company you more often than not won't make any solid money back (due to all the legalese which your investor put into the contract). You're forced to sell for significantly more – which might not even be possible; leaving you in nowhere-land.
 
-Now imagine you raised $10 million for 20%. Suddenly your company is valued at $50 million. At this level your investor will seek much higher exit values - remember that VC firms seek 10x returns on their invested capital. You just put yourself in the position to create a company which you can sell for hundreds of millions of dollars. Good luck with that.
+Now imagine you raised $10 million for 20%. Suddenly your company is valued at $50 million. At this level your investor will seek much higher exit values - remember that VC firms seek 10x returns on their invested capital. You just put yourself in the position to create a company which you have to sell for hundreds of millions of dollars. Good luck with that.
 
-You see it?
+Are you seeing it?
