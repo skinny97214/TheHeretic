@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Featured]
 date: 2013-02-25 13:06:00
 title: After Action Review
 ---

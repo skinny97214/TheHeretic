@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Featured]
 date: 2013-03-05 11:53:00
 title: Quality over Quantity
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Featured]
 date: 2013-03-13 07:18:00
 title: From the Technology Dissenter - The Focal-Point of Your Startup
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [Featured]
 date: 2013-03-09 10:10:00
 title: US Marines do cry
 ---
