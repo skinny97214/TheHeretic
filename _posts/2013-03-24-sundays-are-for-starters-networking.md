@@ -16,3 +16,5 @@ Guess what? The answer is simple: You have to put yourself out there. There is n
 Let me illustrate this with a story out of my own life: When Jane and I moved to London I literally didn't know anybody there. I had a great network in Berlin and other parts of Germany. But London? Zero. What did I do? I went to tons of meetups, arranged coffee, lunch and coffee meetings with people I thought were interesting and always asked people I met whom else I should meet. And then I met them. Every time I met someone I followed up via email, expressed gratitude and offered to help in any form and capacity – never expecting anything in return. It took me probably half a year to build my network. I made a bunch of good friends; met great people (and some lunatics). And it was fun.
 
 In a nutshell: Get out there. Don't be afraid that you don't have anything to offer. Be nice. Be curious. Offer to help and expect nothing in return. And always ask whom else you should meet. You will have build your network in no time.
+
+Today is a good day to start. :)
