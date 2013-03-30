@@ -10,3 +10,4 @@ lsi: false
 exclude:
 - CNAME
 - README.md
+- /scss/
