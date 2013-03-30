@@ -11,7 +11,7 @@ So I set up a newsletter. Originally I planned on sending an email every once in
 
 **Four months and 118 posts later we are a tribe.**
 
-Today I take the wraps off [The *NEW* Heretic](http://theheretic.me/): Over the last couple of weeks I've rebuild the complete website – some highlights:
+Today I take the wraps off [The *new* Heretic](http://theheretic.me/): Over the last couple of weeks I've rebuild the complete website – some highlights:
 
 - All pages are mobile-friendly
 - You can leave public comments for each post
