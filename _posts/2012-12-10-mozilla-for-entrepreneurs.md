@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2012-12-10
 title: Mozilla for Entrepreneurs
 ---

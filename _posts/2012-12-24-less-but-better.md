@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: strategy
+featured: Y
 date: 2012-12-24
 title: Less But Better
 ---

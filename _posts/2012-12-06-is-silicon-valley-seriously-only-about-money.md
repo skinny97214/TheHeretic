@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-12-06
 title: Is Silicon Valley seriously only about money?
 ---

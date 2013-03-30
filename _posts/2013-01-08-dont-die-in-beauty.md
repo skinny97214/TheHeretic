@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-01-08 18:12:00
 title: Don't Die in Beauty
 ---

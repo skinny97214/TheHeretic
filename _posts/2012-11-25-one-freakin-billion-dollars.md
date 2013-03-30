@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-11-25
 title: One Freakin' Billion Dollars
 ---

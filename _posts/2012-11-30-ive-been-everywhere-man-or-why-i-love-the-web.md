@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-11-30
 title: I've Been Everywhere Man - or Why I love the Web
 ---

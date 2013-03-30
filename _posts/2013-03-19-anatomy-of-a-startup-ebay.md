@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-03-19 14:53:00
 title: Anatomy of a Startup - eBay
 ---

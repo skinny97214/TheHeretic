@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: leadership
+featured: Y
 date: 2013-02-02 18:31:00
 title: Company Culture
 ---

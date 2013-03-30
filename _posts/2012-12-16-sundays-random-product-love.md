@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: other
 date: 2012-12-16
 title: Sunday's Random Product Love
 ---

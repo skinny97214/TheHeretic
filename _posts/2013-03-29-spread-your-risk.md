@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-03-29 15:27:00
 title: Spread Your Risk
 ---
@@ -7,4 +8,4 @@ Every (sane) investor applies some type of portfolio theory to their investments
 
 Three friends of mine decided to each build a startup and give the other two a stake in their respective companies. Portfolio theory. Turned out – it worked for them.
 
-Granted this is hard to pull off. You need to have deep trust. And still: Worth thinking about.
+Granted this is hard to pull off. You need to have deep trust. And yet: Worth thinking about.

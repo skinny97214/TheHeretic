@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-12-01
 title: And this is the reason why markets fail
 ---

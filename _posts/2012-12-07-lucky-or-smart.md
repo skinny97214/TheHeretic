@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: rainmaking
+featured: Y
 date: 2012-12-07
 title: Lucky or Smart?
 ---

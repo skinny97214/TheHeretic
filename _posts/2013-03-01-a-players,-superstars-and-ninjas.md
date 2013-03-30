@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: rainmaking
+featured: Y
 date: 2013-03-01 14:59:00
 title: A-Players, Superstars and Ninjas
 ---

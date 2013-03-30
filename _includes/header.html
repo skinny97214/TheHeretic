@@ -1,35 +1,24 @@
 <!DOCTYPE html>
-
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 8]> 				 <html class="no-js lt-ie9" lang="en"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
-	<meta charset="utf-8" />
-
-	<!-- Set the viewport width to device width for mobile -->
-	<meta name="viewport" content="width=device-width" />
-
+	<meta charset="utf-8">
 	<title>The Heretic - {{ page.title }}</title>
-	
-	<!-- Included CSS Files (Compressed) -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/foundation.min.css">
-	<link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/app.css">
 
-	<script src="{{ site.baseurl }}/javascripts/modernizr.foundation.js"></script>
+	<meta name="viewport" content="width=device-width">
+	<meta name="description" content="The Heretic is a daily (opinionated) newsletter for entrepreneurs and startups.">
+	<meta name="author" content="Pascal Finette">
 
-	<!-- The all-so-important FavIcon -->
-	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png" />
-	
-	<!-- RSS Feed -->
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/img/favicon.png">
 	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/thehereticme" title="The Heretic" />
-	
+
 	<!-- Google Analytics -->
 	<script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-83219-28']);
 	_gaq.push(['_setDomainName', 'theheretic.me']);
 	_gaq.push(['_trackPageview']);
-
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -38,7 +27,14 @@
 	</script>
 </head>
 <body>
-<div id="wrapper">
 
-<div class="row">
-	<div class="eight columns offset-by-two whiteBg">
+<div id="masthead">
+	<div class="row">
+		<div class="large-4 columns hide-for-small">
+			<a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}/img/masthead-logo.png" alt="Masthead Logo"></a>
+		</div>
+		<div class="large-8 small-12 columns text-right">
+			<h6><span class="mobile-only"><a href="{{ site.baseurl }}">home</a> / </span><a href="{{ site.baseurl }}/#newsletter" class="highlight">subscribe</a> / <a href="{{ site.baseurl }}/archive/">archive</a> / <a href="{{ site.baseurl }}/about/">about</a></h6>
+		</div>
+	</div>
+</div> <!-- /masthead -->

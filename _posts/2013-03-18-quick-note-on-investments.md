@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: funding
 date: 2013-03-18 10:35:00
 title: Quick Note on Investments
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-01-31 14:20:00
 title: From the UX Dissenter - UX of a Wine Glass
 ---
@@ -13,7 +14,7 @@ Without much further ado - here's the first column from our UX Dissenter Crystal
 
 There's a study that shows that people report that wine tastes better out of fancy crystal wine glass. Poor winemakers toil away in the mud, consulting the phases of the moon, to bottle a more excellent vintage than the last. Who knew all they need do is order up a box of Riedel stems.
 
-![UX of a Wine Glass](http://theheretic.me/images/posts/2013-01-31-ux-of-a-wine-glass.jpg)
+![UX of a Wine Glass](http://theheretic.me/img/posts/2013-01-31-ux-of-a-wine-glass.jpg)
 
 Your product is not so different from that bottle of wine. A good visual design will enhance the experience of using your product. The visual design will indicate what sort of this this is, who the product is for, how much it costs, etc. Note that it indicates this whether or not you want it to. Serving Châteauneuf du Pape in a paper cup may not be an intentional choice, it will affect the experience of drinking it nonetheless. 
 

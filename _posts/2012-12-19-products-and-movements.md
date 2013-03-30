@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-12-19
 title: Products and Movements
 ---

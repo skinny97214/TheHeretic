@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-02-07 13:31:00
 title: The fish stinks from the head down
 ---

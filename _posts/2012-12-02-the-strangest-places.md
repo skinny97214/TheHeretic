@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2012-12-02
 title: The strangest places
 ---

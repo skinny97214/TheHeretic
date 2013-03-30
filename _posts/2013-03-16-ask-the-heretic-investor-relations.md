@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: funding
 date: 2013-03-16 08:26:00
 title: Ask The Heretic - Investor Relations
 ---

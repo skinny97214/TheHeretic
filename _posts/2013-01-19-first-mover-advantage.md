@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: strategy
+featured: Y
 date: 2013-01-19 15:48:00
 title: First Mover Advantage
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: leadership
 date: 2013-02-06 10:47:00
 title: No f'ing clue
 ---

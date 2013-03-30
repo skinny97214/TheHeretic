@@ -1,30 +1,68 @@
 ---
 layout: default
-title: An opinionated newsletter from Pascal Finette
+title: An opinionated newsletter about startups and entrepreneurship
 ---
-<h1>The Heretic</h1>
-<h4>An opinionated newsletter from Pascal Finette</h4>
-<hr />
-<p>Once a day (and sometimes less frequently as I am lazy) you will get Pascal's unfiltered thoughts, advice, rants and ramblings on startups and entrepreneurship. All straight to your inbox. You can even reply.</p>
-<p>The Chief Heretic is joined by an amazing team of Dissenters who will take you deep into the rabbit holes of marketing (<a href="(http://janefinette.com" title="(http://janefinette.com">Jane Finette</a>), UX/UI/Design (<a href="http://skinnywhitegirl.com/blog/" title="http://skinnywhitegirl.com/blog/">Crystal Beasley</a>) and technology (<a href="http://lloyd.io/" title="http://lloyd.io/">Lloyd Hilaiel</a>).</p>
-<p><strong class="highlight">Subscribe now. It's fun and awesome.</strong></p>
-<hr />
-<p>
-	<!-- Begin MailChimp Signup Form -->
-	<div id="mc_embed_signup">
-		<form action="http://finette.us6.list-manage.com/subscribe/post?u=73ed86d918cf26bfbf6cc6c1d&amp;id=7eed73b8d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-			<label>Enter your email address to subscribe:</label>
-			<div class="row">
-				<div class="nine columns">
-					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-				</div>
-				<div class="three columns text-right">
-					<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-				</div>
-			</div>
-		</form>
+<div id="headerHome" class="hide-for-small">
+	<div class="row">
+		<div class="large-12 columns text-center">
+			<img src="img/header-tagline.png" alt="Opinionated Newsletter for Entrepreneurs">
+		</div>
 	</div>
-	<!--End mc_embed_signup-->
-</p>
-<hr />
-<p><strong>Curious?</strong> In case you're wondering what you're getting into &ndash; check out my last post {% for post in site.posts limit:1 %}"<a href="{{ post.url }}" title="{{ post.title }}" class="highlight">{{ post.title }}</a>"{% endfor %} and dig into the <a href="/archive/" class="highlight">complete archive</a> of past editions of The Heretic.</p>
+</div> <!-- /headerHome -->
+
+<div id="pullout">
+	<div class="row">
+		<div class="small-12 columns text-center">
+			{% for post in site.posts limit:1 %}
+			<p>Latest Post: <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+			{% endfor %}
+		</div>
+	</div>
+</div> <!-- /pullout -->
+
+<div id="newsletter">
+	<div class="row">
+		<div class="large-6 columns">
+			<h3>THE HERETIC</h3>
+			<p>Welcome. The Heretic is a daily newsletter about entrepreneurship, the art of the start and doing the work by Pascal Finette. It's raw, unfiltered and opinionated. All straight to your inbox. You will like it.</p>
+		</div>
+		<div class="large-6 columns">
+			<h3>SUBSCRIBE</h3>
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup">
+				<form action="http://finette.us6.list-manage.com/subscribe/post?u=73ed86d918cf26bfbf6cc6c1d&amp;id=7eed73b8d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<p>
+						<span class="highlight"><strong>Be awesome:</strong></span> Subscribe now for your daily fix.<br>
+						No spam and 100% bullshit free; I swear.
+					</p>
+					<label>Enter your email address to subscribe:</label>
+					<div class="row collapse">
+						<div class="small-9 columns">
+							<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						</div>
+						<div class="small-3 columns">
+							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button prefix">
+						</div>
+					</div>
+				</form>
+			</div> <!-- /mc_embed_signup-->
+		</div>
+	</div>
+</div> <!-- /newsletter -->
+
+<div id="post">
+	<div class="row">
+		<div class="large-3 columns">
+			<h3>LATEST POST</h3>
+		</div>
+		<div class="large-9 columns">
+			{% for post in site.posts limit:1 %}
+			<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+			{{ post.content }}
+			<p class="text-right"><a href="{{ post.url }}#disqus_thread" class="small button"><i class="icon-comment"></i>Leave a comment</a></p>
+			{% endfor %}
+			<hr>
+			<h4><i class="icon-chevron-right"></i> Discover more amazing content in the <a href="/archive/">archive</a> and <a href="#newsletter">subscribe</a>!</h4>
+		</div>
+	</div>
+</div> <!-- /post -->

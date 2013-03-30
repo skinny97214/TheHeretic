@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: strategy
+featured: Y
 date: 2013-01-09 18:12:00
 title: Don't Die in Beauty - Part 2
 ---

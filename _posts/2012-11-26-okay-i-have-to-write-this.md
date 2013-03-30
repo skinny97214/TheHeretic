@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-11-26
 title: Okay. I have to write this.
 ---

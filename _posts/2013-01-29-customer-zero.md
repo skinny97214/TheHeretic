@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: strategy
+featured: Y
 date: 2013-01-29 10:11:11
 title: Customer Zero
 ---

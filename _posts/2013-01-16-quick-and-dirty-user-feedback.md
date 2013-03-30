@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-01-16 13:20:00
 title: Quick and Dirty User Feedback
 ---

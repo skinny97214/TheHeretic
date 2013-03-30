@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: rainmaking
+featured: Y
 date: 2013-01-20 14:39:00
 title: Pitch Deck Sunday - The Team Slide
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: funding
+featured: Y
 date: 2013-01-26 12:29:00
 title: The Price of Joining an Incubator
 ---

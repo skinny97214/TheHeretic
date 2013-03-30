@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-01-04
 title: Mobile is just a Form Factor
 ---

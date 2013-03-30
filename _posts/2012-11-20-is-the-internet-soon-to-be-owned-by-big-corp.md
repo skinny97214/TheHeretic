@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-11-20
 title: Is the Internet soon to be owned by Big Corp?
 ---

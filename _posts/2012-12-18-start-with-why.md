@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2012-12-18
 title: Start with Why
 ---

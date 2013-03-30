@@ -1,5 +1,7 @@
 ---
 layout: post
+tags: rainmaking
+featured: Y
 date: 2013-03-28 17:03:00
 title: It's all there waiting for you 
 ---

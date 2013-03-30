@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-03-04 14:06:00
 title: Anatomy of a Startup - Instagram
 ---

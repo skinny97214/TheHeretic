@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: leadership
 date: 2013-01-02
 title: Don't settle for anything less
 ---

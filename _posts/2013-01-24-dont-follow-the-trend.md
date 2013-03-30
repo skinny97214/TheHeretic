@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-01-24 14:53:00
 title: Don't follow the trend
 ---

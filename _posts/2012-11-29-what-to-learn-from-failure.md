@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: leadership
 date: 2012-11-29
 title: What to learn from Failure
 ---

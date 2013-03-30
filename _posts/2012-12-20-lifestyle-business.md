@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: thoughts
+featured: Y
 date: 2012-12-20
 title: Lifestyle Business
 ---

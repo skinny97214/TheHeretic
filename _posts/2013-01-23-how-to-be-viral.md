@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-01-23 12:17:17
 title: How to be viral
 ---

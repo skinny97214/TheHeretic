@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-03-23 17:02:00
 title: Forget TechCrunch
 ---

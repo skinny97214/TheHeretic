@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-01-22 17:51:00
 title: The Validation Litmus-Test
 ---

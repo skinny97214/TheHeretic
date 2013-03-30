@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-12-30
 title: The Soul-Crushing Reality of Big Companies
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: rainmaking
 date: 2013-03-08 10:13:00
 title: The Principle of Affordable Loss
 ---

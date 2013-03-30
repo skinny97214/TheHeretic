@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: leadership
+featured: Y
 date: 2013-03-05 11:53:00
 title: Quality over Quantity
 ---

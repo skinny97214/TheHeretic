@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: leadership
+featured: Y
 date: 2013-01-07 18:05:00
 title: Seven Lessons
 ---

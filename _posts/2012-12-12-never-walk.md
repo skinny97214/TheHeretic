@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: leadership
 date: 2012-12-12
 title: Never walk.
 ---

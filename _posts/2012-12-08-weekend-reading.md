@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-12-08
 title: Weekend Reading
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-02-08 07:41:00
 title: From the Marketing Dissenter - Your Customers are Key to Creating Value 
 ---

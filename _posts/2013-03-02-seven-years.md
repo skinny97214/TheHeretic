@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-03-02 10:50:00
 title: Seven Years
 ---

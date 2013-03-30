@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: strategy
+featured: Y
 date: 2013-02-14 15:24:00
 title: Brutal Intellectual Honesty
 ---

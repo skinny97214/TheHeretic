@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: funding
 date: 2013-03-25 12:49:00
 title: Why Investors Don't Say No
 ---

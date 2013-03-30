@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: other
 date: 2012-12-22
 title: Happy Holidays
 ---

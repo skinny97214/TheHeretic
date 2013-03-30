@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: funding
+featured: Y
 date: 2013-03-15 09:21:00
 title: The Funding Oxymoron
 ---

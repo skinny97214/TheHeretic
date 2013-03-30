@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2012-11-21
 title: Apps. Ah, screw that.
 ---

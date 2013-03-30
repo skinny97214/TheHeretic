@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: strategy
+featured: Y
 date: 2013-01-17 8:18:00
 title: Short is Sexy
 ---

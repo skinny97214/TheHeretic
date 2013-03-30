@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: rainmaking
 date: 2013-02-10 09:21:00
 title: Pitch Deck Sunday - A word about design
 ---

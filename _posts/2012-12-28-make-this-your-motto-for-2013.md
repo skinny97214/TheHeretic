@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: leadership
 date: 2012-12-28
 title: Make this your motto for 2013
 ---

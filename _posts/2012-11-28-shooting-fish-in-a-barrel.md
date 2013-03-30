@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: other
 date: 2012-11-28
 title: Shooting Fish in a Barrel
 ---

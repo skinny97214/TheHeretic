@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: leadership
+featured: Y
 date: 2013-01-12 08:51:00
 title: The Essence of Leadership
 ---

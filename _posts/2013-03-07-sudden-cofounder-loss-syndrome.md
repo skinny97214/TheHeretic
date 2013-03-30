@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-03-07 09:40:00
 title: Sudden Cofounder Loss Syndrome
 ---

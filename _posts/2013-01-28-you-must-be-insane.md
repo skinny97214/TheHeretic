@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-01-28 13:18:18
 title: You must be insane
 ---

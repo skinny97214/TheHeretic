@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-01-25 13:29:29
 title: Trends vs Ideas
 ---

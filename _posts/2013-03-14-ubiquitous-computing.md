@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-03-14 12:02:00
 title: Ubiquitous Computing
 ---

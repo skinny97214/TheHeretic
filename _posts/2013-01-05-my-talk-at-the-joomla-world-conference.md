@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: other
 date: 2013-01-05
 title: My Talk at the Joomla! World Conference
 ---

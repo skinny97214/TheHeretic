@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: funding
 date: 2013-01-06 16:00:00
 title: Twenty Grand. Really?
 ---

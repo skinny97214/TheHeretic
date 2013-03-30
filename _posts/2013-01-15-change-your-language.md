@@ -1,6 +1,7 @@
 ---
 layout: post
-tags: [Featured]
+tags: thought
+featured: Y
 date: 2013-01-15 8:56:00
 title: Change your Language
 ---

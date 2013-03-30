@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: funding
 date: 2013-02-27 08:24:00
 title: (Most) Incubators have it backwards
 ---

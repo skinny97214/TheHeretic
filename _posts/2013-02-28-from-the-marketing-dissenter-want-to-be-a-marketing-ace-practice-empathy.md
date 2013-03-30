@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-02-28 07:25:00
 title: From the Marketing Dissenter - Want to be a Marketing Ace? Practice Empathy
 ---

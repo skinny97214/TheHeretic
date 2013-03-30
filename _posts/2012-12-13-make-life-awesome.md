@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: leadership
 date: 2012-12-13
 title: Make Life Awesome
 ---

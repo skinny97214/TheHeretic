@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-02-04 16:34:00
 title: In the long run...
 ---

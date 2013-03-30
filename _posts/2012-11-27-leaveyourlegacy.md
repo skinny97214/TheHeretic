@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: rainmaking
 date: 2012-11-27
 title: Leave Your Legacy
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: strategy
 date: 2013-02-26 11:21:00
 title: Hypothesis Testing
 ---

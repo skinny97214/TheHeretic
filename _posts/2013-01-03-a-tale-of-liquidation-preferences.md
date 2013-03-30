@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: funding
 date: 2013-01-03
 title: A Tale of Liquidation Preferences
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: thoughts
 date: 2013-02-05 13:46:00
 title: Big Company Syndrome
 ---

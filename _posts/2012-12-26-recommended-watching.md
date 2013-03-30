@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: other
 date: 2012-12-26
 title: Recommended Watching
 ---
