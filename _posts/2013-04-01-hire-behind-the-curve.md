@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured: 
+featured: Y
 date: 2013-04-01 15:04:00
 title: Hire behind the curve
 ---
