@@ -2,7 +2,7 @@
 layout: post
 tags: strategy
 featured: 
-date: 2013-04-04 00:00:00
+date: 2013-04-04 08:00:00
 title: Sequencing
 ---
 You wouldn't try to bake a cake by throwing the ingredients into the oven before you have mixed them together. There is a clear sequence to the way you prepare a dish.
