@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured: 
+featured: Y
 date: 2013-04-06 18:41:00
 title: The Lean Startup Deception
 ---
