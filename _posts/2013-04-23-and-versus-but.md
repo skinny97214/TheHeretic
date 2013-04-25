@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured:
+featured: Y
 date: 2013-04-23 23:13:00
 title: And versus But
 ---
