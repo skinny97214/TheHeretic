@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: thoughts
-featured:
+featured: Y
 date: 2013-05-03 07:25:00
 title: We've reached the Peak
 ---

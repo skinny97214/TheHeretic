@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: thoughts
-featured: 
+featured: Y
 date: 2013-05-04 09:07:00
 title: What's your Passion?
 ---
