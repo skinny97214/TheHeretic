@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: thoughts
-featured:
+featured: Y
 date: 2013-05-07 07:41:00
 title: The Future is Now and it's Yours
 ---
