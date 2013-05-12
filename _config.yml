@@ -1,7 +1,7 @@
 name: The Heretic
 description: An opinionated Newsletter by Pascal Finette
 url: http://theheretic.me
-baseurL: http://theheretic.me
+baseurl: http://theheretic.me
 
 markdown: rdiscount
 
