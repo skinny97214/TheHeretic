@@ -9,4 +9,4 @@ You are not Steve Jobs, Mark Zuckerberg or any other poster child entrepreneur. 
 
 We all start out in different places, and everyone's journey is unique. Drawing comparison is a complete waste of time.
 
-Be yourself.
+Just be yourself. You're doing great.
