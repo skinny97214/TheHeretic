@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured: 
+featured: Y
 date: 2013-05-11 09:09:00
 title: How to Choose
 ---

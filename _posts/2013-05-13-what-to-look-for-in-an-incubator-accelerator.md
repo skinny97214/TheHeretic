@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: funding
-featured: 
+featured: Y
 date: 2013-05-13 16:37:00
 title: What to look for in an Incubator/Accelerator
 ---

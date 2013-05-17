@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: rainmaking
-featured: 
+featured: Y
 date: 2013-05-16 12:08:00
 title: Stay Stupid
 ---
