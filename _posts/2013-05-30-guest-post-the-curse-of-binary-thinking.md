@@ -3,7 +3,7 @@ layout: post
 tags: strategy
 featured: 
 date: 2013-05-30 06:51:00
-title: [Guest Post] The Curse of Binary Thinking
+title: Guest Post - The Curse of Binary Thinking
 ---
 *The following post is a guest post by fellow Heretic and CEO & co-founder of [Blossom](https://www.blossom.io/) [Thomas Schranz](http://www.ramen.io/). I love his perspective - which I  would argue affects not only technical founders but anyone who is "data driven".*
 
