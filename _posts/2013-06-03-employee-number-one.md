@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: rainmaking
-featured: 
+featured: Y
 date: 2013-06-03 14:50:00
 title: Employee Number One
 ---
