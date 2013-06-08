@@ -13,6 +13,6 @@ No. Lala-Land is full of people who believe they have all the answers as they ha
 
 Don't get me wrong. They are still good people. And generally they mean well. But they just don't know. They can't. Nobody can if they haven't been there.
 
-Surround yourself with other entrepreneurs. Find people who have been entrepreneurs (ideally more than once) and make them your trusted inner circle. Create your own network.
+**Surround yourself with other entrepreneurs. Find people who have been entrepreneurs (ideally more than once) and make them your trusted inner circle. Create your own network.**
 
 And when you apply for an incubator – ask them if they actually know what they are talking about.

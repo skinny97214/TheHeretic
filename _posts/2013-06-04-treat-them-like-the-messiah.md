@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured: 
+featured: Y
 date: 2013-06-04 13:28:00
 title: Treat them like the Messiah
 ---
