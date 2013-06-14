@@ -3,7 +3,7 @@ layout: post
 tags: leadership
 featured: 
 date: 2013-06-14 05:34:00
-title: (Good) Leadership
+title: Good Leadership
 ---- 
 One of our fellow Heretics recently asked me the rather innocent question "What are the skills and traits of a **good** leader?"
 
