@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: thoughts
-featured: 
+featured: Y
 date: 2013-06-16 12:17:00
 title: Do you work for the right company?
 ---
