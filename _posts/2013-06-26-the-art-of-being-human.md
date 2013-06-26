@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured:
+featured: Y
 date: 2013-06-26 09:02:00
 title: The Art of Being Human
 ---
