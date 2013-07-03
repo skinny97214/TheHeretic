@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured: 
+featured: Y
 date: 2013-07-01 10:48:00
 title: Knowledge versus Wisdom
 ---
