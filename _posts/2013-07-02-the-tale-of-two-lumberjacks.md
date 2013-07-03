@@ -17,4 +17,4 @@ Joe calmly responded: From time to time you have to take a break to sharpen the 
 
 When was the last time you took a break, put some space between yourself and your startup (or whatever else you're working on) and sharpened your axe?
 
-<p><iframe frameborder="0" height="480" width="854" allowFullScreen webkitallowfullscreen="true" mozallowfullscreen="true" src="http://sketchfab.com/mk4i32fdc0?autostart=0&transparent=0&autospin=0&controls=1"></iframe></p>
+<p><iframe frameborder="0" height="240" width="427" allowFullScreen webkitallowfullscreen="true" mozallowfullscreen="true" src="http://sketchfab.com/mk4i32fdc0?autostart=0&transparent=0&autospin=0&controls=1"></iframe></p>
