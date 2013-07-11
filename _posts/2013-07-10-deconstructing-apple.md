@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured:
+featured: Y
 date: 2013-07-10 10:16:00
 title: Deconstructing Apple
 ---
