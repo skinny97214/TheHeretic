@@ -3,7 +3,7 @@ layout: post
 tags: leadership strategy rainmaking funding thoughts other
 featured: Y
 date: 2013-07-19 09:23:00
-title: Celebrate!
+title: Celebrate
 ---
 <p><em>We've come a long long way together,<br>Through the hard times and the good,<br>I have have to celebrate you baby,<br>I have to praise you like I should</em></p>
 
