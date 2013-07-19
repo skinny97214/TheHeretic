@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: thoughts
-featured: 
+featured: Y
 date: 2013-07-12 14:37:00
 title: Reflecting…
 ---

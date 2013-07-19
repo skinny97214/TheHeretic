@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: rainmaking
-featured:
+featured: Y
 date: 2013-07-17 13:05:00
 title: Be ready for what you wish for
 ---
