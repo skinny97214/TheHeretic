@@ -20,4 +20,4 @@ What is fascinating (and often overlooked) is the fact that you don't need to co
 
 I highly recommend the article and made it required reading for pretty much everyone I work with.
 
-Bonus: [Undercover User Experience Design](Undercover User Experience Design) is an excellent book for everyone who wants to learn more about the subject and is looking for hands-on advice.
+Bonus: [Undercover User Experience Design](http://www.peachpit.com/store/undercover-user-experience-design-9780321719904) is an excellent book for everyone who wants to learn more about the subject and is looking for hands-on advice.
