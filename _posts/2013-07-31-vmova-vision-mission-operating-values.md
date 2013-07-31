@@ -18,6 +18,7 @@ Intuit, a beacon of Silicon Valley success defined their mission (and original B
 It doesn't get much better than that. Clear, concise, aspirational. Something people can sign up for, get behind at and a strategic goal post for the organization.
 
 Intuit's operating values are:
+
 - Customers Come First
 - Integrity without Compromise
 - It's the People
