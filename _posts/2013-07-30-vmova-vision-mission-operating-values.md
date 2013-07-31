@@ -2,7 +2,7 @@
 layout: post
 tags: leadership
 featured:
-date: 2013-07-31 14:24:00
+date: 2013-07-30 14:24:00
 title: VMOVA - Vision, Mission, Operating Values
 ---
 I can't express often and loud enough how important it is for you to figure out the "why" of your organization and lead from this point. Too many companies either skip this step altogether and jump straight into the "how" and "what" of doing business or have some form of the "why" in their head but never go through the motion of expressing their vision, mission and operating values on paper.
