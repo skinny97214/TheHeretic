@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: rainmaking
-featured: 
+featured: Y
 date: 2013-08-01 17:42:00
 title: Forget your tools
 ---
