@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured:
+featured: Y
 date: 2013-08-07 10:15:00
 title: Finding your Unfair Advantage
 ---

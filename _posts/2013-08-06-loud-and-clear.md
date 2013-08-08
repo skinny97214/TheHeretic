@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured:
+featured: Y
 date: 2013-08-06 08:38:00
 title: Loud and Clear
 ---
