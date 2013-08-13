@@ -14,3 +14,5 @@ Luckily there are a couple of resources which are terrific and will get you from
 - And if you really want to learn the ropes – Brad Feld's and Jason Mendelson's book [Venture Deals](http://www.amazon.com/exec/obidos/ASIN/0470929820/vglnk-c6-20) is a must-read.
 
 I highly recommend spending some time with these topics – the more comfortable you feel with the lingua and the way you can get screwed over, the better your deal will be. :)
+
+*[ADDED AUGUST 13]* Our fellow Heretic [Adam Scheuring](http://twitter.com/admsch) pointed this [fantastic primer on Convertible Notes](https://medium.com/what-i-learned-today/aa0e22f444c9) out. Read it.
