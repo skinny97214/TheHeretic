@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: funding
-featured: 
+featured: Y
 date: 2013-08-12 13:09:00
 title: The Intricacies of Financing
 ---

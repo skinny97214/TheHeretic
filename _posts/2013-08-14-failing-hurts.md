@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured: 
+featured: Y
 date: 2013-08-14 13:49:00
 title: Failing Hurts
 ---

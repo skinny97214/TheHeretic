@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured: 
+featured: Y
 date: 2013-08-13 09:52:00
 title: The Cardinal Mistake of a CEO
 ---
