@@ -10,6 +10,7 @@ The prevalent reason startups fail is because they run out of money. The prevale
 As an entrepreneur you have essentially only two obligations: 
 
 (1) **Create something people want.**
+
 (2) **Keep the lights on.**
 
 As long as you're willing to listen to your customers, try things out, change, listen some more, try some more and change some more – your primary job is to keep the lights on. Most startups eventually make it if they just keep at it long enough (and are willing to change course to build something their customers actually want).
