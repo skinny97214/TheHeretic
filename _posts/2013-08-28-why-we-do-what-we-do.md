@@ -5,7 +5,7 @@ featured: Y
 date: 2013-08-28 14:39:00
 title: Why we do what we do
 ---
-Every once in a while someone asks me why I do what I do. Why I get up in the morning. Why I am not content with an exciting day job but do all the other things I do. Heck – why I even write The Heretic.
+Every once in awhile someone asks me why I do what I do. Why I get up in the morning. Why I am not content with an exciting day job but do all the other things I do. Heck – why I even write The Heretic.
 
 I thought a lot about this.
 
