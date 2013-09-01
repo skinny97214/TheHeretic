@@ -11,6 +11,6 @@ Sadly this often leads to nothing.
 
 Generally speaking it's usually easier to start with the problem and then create the fitting solution. That way you can guarantee that (if your solution works) you have a market.
 
-The counter-argument is all the amazing products and services which are based on academic research. A classic case of "technology first – solution second".
+The counter-argument is all the amazing products and services which are based on academic research. A classic case of "technology first – solution second". Beware of the survivor ship bias though… 
 
 But there is a golden bullet: Once you have your piece of technology, force yourself into deep customer empathy and discovery mode. Don't spend time refining your product – go out into the world, talk to and observe potential customers and figure out how your product/service could make their life better. Develop empathy, go broad, go narrow, then prototype. Rinse and repeat. And suddenly you might just found the perfect problem to solve.
