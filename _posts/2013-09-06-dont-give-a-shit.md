@@ -3,7 +3,7 @@ layout: post
 tags: leadership
 featured: 
 date: 2013-09-06 08:53:00
-title: Don't give a #$%@
+title: Don't give a $%@&
 ---
 Yesterday, in an email thread, the leader of an organization I highly respect (both the leader and the organization) made the following comment about a talk he's giving at an event this week – as you might guess his talk will be controversial:
 
