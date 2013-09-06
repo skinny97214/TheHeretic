@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: thoughts
-featured: 
+featured: Y
 date: 2013-09-05 12:09:00
 title: No Fate But What We Make
 ---
