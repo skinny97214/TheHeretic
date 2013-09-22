@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured: 
+featured: Y
 date: 2013-09-13 05:14:00
 title: When Good Enough is Good Enough
 ---

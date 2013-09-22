@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: rainmaking
-featured: 
+featured: Y
 date: 2013-09-11 09:16:00
 title: Startups are a Dance
 ---

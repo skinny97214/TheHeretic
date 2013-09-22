@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: strategy
-featured:
+featured: Y
 date: 2013-09-17 14:22:00
 title: Speed is your Superpower and Kryptonite
 ---

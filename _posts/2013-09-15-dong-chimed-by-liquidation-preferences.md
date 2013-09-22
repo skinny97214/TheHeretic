@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: funding
-featured: 
+featured: Y
 date: 2013-09-15 10:59:00
 title: Dong Chim'ed by Liquidation Preferences
 ---
