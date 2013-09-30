@@ -1,8 +1,8 @@
 ---
 layout: post
-tags: leadership strategy rainmaking funding thoughts other
-featured: Y
-date: 2013-04-01 00:00:00
+tags: rainmaking
+featured: 
+date: 2013-09-30 13:05:00
 title: Staring Into The Abyss
 ---
 It's funny – some days I am staring at an empty text document, the cursor blinking; waiting for me to write something insightful for this very newsletter. It's literally like staring into the abyss.
