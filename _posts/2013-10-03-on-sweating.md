@@ -17,4 +17,4 @@ It may seem counterintuitive, but showing that side of yourself can be incredibl
 
 I don't know about you, but when I look at someone in a position of authority, someone I look up to and respect, I respect them more when I see their apprehensions, their emotions or just their little character quirks. It makes them more relatable, which tells me that I can achieve the same things they have. And that makes their achievements all the more impressive, because I can imagine what it took for them to get there.
 
-So the next time you step into a meeting — or really any room — think about who is walking through the door. Sometimes it's OK to let them see you sweat.
+So the next time you step into a meeting – or really any room – think about who is walking through the door. Sometimes it's OK to let them see you sweat.
