@@ -15,4 +15,4 @@ Gladly I had amazing mentors who helped me, told me the hard truths and showed m
 
 Spend the next 10 minutes watching this – it will teach you more about leadership than a two-year MBA course:
 
-<iframe width="480" height="360" src="//www.youtube.com/embed/OqmdLcyES_Q?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/OqmdLcyES_Q?rel=0" frameborder="0" allowfullscreen></iframe>
