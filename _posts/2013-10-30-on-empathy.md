@@ -3,7 +3,7 @@ layout: post
 tags: leadership
 featured: 
 date: 2013-10-30 14:04:00
-title: On Empathy (or: Why Loving Someone Is Easy)
+title: On Empathy (or Why Loving Someone Is Easy)
 ---
 We talked about empathy quite a bit here at The Heretic. You need deep customer empathy to build products your customers not only want but desire and love. You should also operate from a place of empathy when dealing with your cofounders and employees.
 
