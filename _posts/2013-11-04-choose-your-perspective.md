@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: leadership
-featured: 
+featured: Y
 date: 2013-11-04 16:30:00
 title: Choose Your Perspective
 ---
