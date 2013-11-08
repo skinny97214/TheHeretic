@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://theheretic.me/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://theheretic.me/about/</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://theheretic.me/disclaimer/</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://theheretic.me/archive/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/11/05/hate-or-love</loc>
+		<lastmod>2013-11-05</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/11/04/choose-your-perspective</loc>
+		<lastmod>2013-11-04</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/31/lucky-or-smart</loc>
+		<lastmod>2013-10-31</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/30/on-empathy</loc>
+		<lastmod>2013-10-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/29/a-personal-update</loc>
+		<lastmod>2013-10-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/28/dont-try-to-predict-the-future</loc>
+		<lastmod>2013-10-28</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/25/first-time-ceos</loc>
+		<lastmod>2013-10-25</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/22/the-right-stuff</loc>
+		<lastmod>2013-10-22</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/21/whom-are-you-building-for</loc>
+		<lastmod>2013-10-21</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/18/use-chopsticks</loc>
+		<lastmod>2013-10-18</lastmod>
+	</url>
+	 
+</urlset>
