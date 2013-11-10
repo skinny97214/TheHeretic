@@ -24,7 +24,7 @@ title: An opinionated newsletter about startups and entrepreneurship
 	<div class="row">
 		<div class="large-6 columns">
 			<h3>PERSON &amp; PLACE</h3>
-			<p>I gave up on art after graduating with an art degree. This is my project to get back to creating for its own beautiful sake. I make no claims that this art is "good" or "original" just that it comes from me and that I want it to be in the world. All straight to your inbox.</p>
+			<p>I gave up on art after graduating with an art degree. This is my project to get back to creating for its own beautiful sake. I make no claims that this work is "good" or "original" just that it comes from me and that I want it to be in the world. Art straight to your inbox.</p>
 		</div>
 		<div class="large-6 columns">
 			<h3>SUBSCRIBE</h3>
@@ -52,10 +52,7 @@ title: An opinionated newsletter about startups and entrepreneurship
 
 <div id="post">
 	<div class="row">
-		<div class="large-3 columns">
-			<h3>LATEST POST</h3>
-		</div>
-		<div class="large-9 columns">
+		<div class="large-12 columns">
 			{% for post in site.posts limit:10 %}
 			<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 			{{ post.content }}
