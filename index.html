@@ -59,7 +59,6 @@ title: An opinionated newsletter about startups and entrepreneurship
 			{% for post in site.posts limit:10 %}
 			<h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
 			{{ post.content }}
-			<p class="text-right"><a href="{{ post.url }}/#disqus_thread" class="small button"><i class="icon-comment"></i>Leave a comment</a></p>
 			{% endfor %}
 			<hr>
 			<h4><i class="icon-chevron-right"></i> Discover more in the <a href="/archive/">archive</a>, <a href="#newsletter">subscribe</a> and <a href="http://facebook.com/skinnywhitegirl">join us on Facebook</a>!</h4>
