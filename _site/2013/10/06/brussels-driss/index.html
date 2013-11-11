@@ -4,7 +4,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8" />
-	<title>The Heretic - Archive</title>
+	<title>The Heretic - Driss, Brussels</title>
 
 	<meta name="viewport" content="width=device-width">
 	<meta name="description" content="The Heretic is a daily (opinionated) newsletter for entrepreneurs and startups.">
@@ -15,14 +15,14 @@
 	<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/thehereticme" title="The Heretic" />
 
 	<!-- OpenGraph Tags -->
-	<meta property="og:title" content="The Heretic - Archive">
+	<meta property="og:title" content="The Heretic - Driss, Brussels">
 	<meta property="og:type" content="website">
 	<meta property="og:image" content="http://theheretic.me/img/opengraph-logo.png">
 	<meta property="og:image:type" content="image/png">
 	<meta property="og:image:width" content="300">
 	<meta property="og:image:height" content="300">
-	<meta property="og:url" content="http://theheretic.me/archive/index.html">
-	<meta property="og:description" content="The Heretic: Archive">
+	<meta property="og:url" content="http://theheretic.me/2013/10/06/brussels-driss">
+	<meta property="og:description" content="The Heretic: Driss, Brussels">
 	<meta property="og:site_name" content="TheHeretic.me">
 
 	<!-- Google Analytics -->
@@ -52,64 +52,28 @@
 </div> <!-- /masthead -->
 
 
-<div id="headerArchive" class="hide-for-small">
-</div> <!-- /headerArchive -->
+<div id="headerPost" class="hide-for-small">
+</div> <!-- /headerPost -->
 
-<div id="archive">
+<div id="post">
 	<div class="row">
-		<div class="large-3 columns">
-			<h3>ARCHIVE</h3>
-			<h5><i class="icon-tags"></i> Show all posts about:</h5>
-			<ul>
-				<li><a href="#archive" onclick="filterNone();"><span class="radius secondary label">All Posts</span></a></li>
-				<li><a href="#archive" onclick="filterFeature();"><span class="radius secondary label">Featured <i class="icon-star"></i></span></a></li>
-				<li><a href="#archive" onclick="filter('leadership');"><span class="radius secondary label">On Leadership</span></a></li>
-				<li><a href="#archive" onclick="filter('strategy');"><span class="radius secondary label">Strategy & Tactics</span></a></li>
-				<li><a href="#archive" onclick="filter('rainmaking');"><span class="radius secondary label">Rainmaking</span></a></li>
-				<li><a href="#archive" onclick="filter('funding');"><span class="radius secondary label">The Money</span></a></li>
-				<li><a href="#archive" onclick="filter('thoughts');"><span class="radius secondary label">Thoughts</span></a></li>
-				<li><a href="#archive" onclick="filter('other');"><span class="radius secondary label">Other</span></a></li>
-			</ul>
-		</div>
-		<div class="large-9 columns">
-			<div id="archive-list">
-				<ul class="archiveItems list">
-				
-					<li><i class="icon-angle-right"></i> <a href="/2013/10/19/phnompenh-blessing" title="Blessing, Phnom Penh">Blessing, Phnom Penh</a>  <small>(19 Oct 2013)</small><span class="category">PhnomPenh</span></li>
-				
-					<li><i class="icon-angle-right"></i> <a href="/2013/10/06/brussels-driss" title="Driss, Brussels">Driss, Brussels</a>  <small>(06 Oct 2013)</small><span class="category">Brussels</span></li>
-				
-				</ul>
+		<div class="large-4 columns">
+			<h3>Driss, Brussels</h3>
+			<a href="/archive/" class="small button"><i class="icon-folder-close"></i>Archive</a> <a href="http://twitter.com/share?url=http://theheretic.me/2013/10/06/brussels-driss/&text=The Heretic: Driss, Brussels" target="_blank" class="small button"><i class="icon-twitter"></i>Tweet</a>
 			</div>
+		<div class="large-8 columns">
+			<p><img src="/img/posts/2013-11-10-brussels-driss.png" alt="Driss in Brussels" /></p>
+
+<p>Whatever you do – aim for emotion. Make people passionately love you, your product or your company. And understand that when some people love you, others will hate you.</p>
+
+
+			<hr>
+
+
 		</div>
 	</div>
 </div> <!-- /post -->
 
-<!-- list.js -->
-<script src="../js/list.min.js"></script>
-<script type="text/javascript">
-var options = { valueNames: [ 'category', 'featured' ] };
-var archiveList = new List('archive-list', options);
-
-function filter($tag) {
-	archiveList.filter(function(item) {
-		if (item.values().category == $tag) { return true; } else { return false; }
-	});
-};
-
-function filterFeature() {
-	archiveList.filter(function(item) {
-		if (item.values().featured == 'featured') { return true; } else { return false; }
-	});
-};
-
-function filterNone() {
-	archiveList.filter();
-	return false;
-};
-</script>
-<!-- /list.js -->
-	
 <div id="footer">
 	<div class="row">
 		<div class="small-12 columns text-center">
