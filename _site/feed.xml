@@ -5,8 +5,8 @@
 		<link>http://theheretic.me</link>
 		<atom:link href="http://theheretic.me/feed.xml" rel="self" type="application/rss+xml" />
 		<description>An opinionated Newsletter by Pascal Finette</description>
-		<pubDate>Sun, 10 Nov 2013 20:10:30 +0700</pubDate>
-		<lastBuildDate>Sun, 10 Nov 2013 20:10:30 +0700</lastBuildDate>
+		<pubDate>Mon, 11 Nov 2013 09:47:28 +0700</pubDate>
+		<lastBuildDate>Mon, 11 Nov 2013 09:47:28 +0700</lastBuildDate>
 		
 			<item>
 				<title>Driss, Brussels</title>
@@ -14,10 +14,9 @@
 				<pubDate>Sun, 10 Nov 2013 15:50:00 +0000</pubDate>
 				<author>hello@theheretic.me (Pascal Finette)</author>
 				<guid isPermaLink="true">http://theheretic.me/2013/11/10/brussels-driss</guid>
-				<description>![Driss in Brussels](/img/posts/2013-11-10-brussels-driss.png)
+				<description>&lt;p&gt;&lt;img src=&quot;/img/posts/2013-11-10-brussels-driss.png&quot; alt=&quot;Driss in Brussels&quot; /&gt;&lt;/p&gt;
 
-Whatever you do – aim for emotion. Make people passionately love you, your product or your company. And understand that when some people love you, others will hate you.
-
+&lt;p&gt;Whatever you do – aim for emotion. Make people passionately love you, your product or your company. And understand that when some people love you, others will hate you.&lt;/p&gt;
 </description>
 			</item>
 		
