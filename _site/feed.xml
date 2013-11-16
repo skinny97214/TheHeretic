@@ -5,8 +5,8 @@
 		<link>http://theheretic.me</link>
 		<atom:link href="http://theheretic.me/feed.xml" rel="self" type="application/rss+xml" />
 		<description>An opinionated Newsletter by Pascal Finette</description>
-		<pubDate>Sat, 16 Nov 2013 13:41:28 +0700</pubDate>
-		<lastBuildDate>Sat, 16 Nov 2013 13:41:28 +0700</lastBuildDate>
+		<pubDate>Sat, 16 Nov 2013 14:01:11 +0700</pubDate>
+		<lastBuildDate>Sat, 16 Nov 2013 14:01:11 +0700</lastBuildDate>
 		
 			<item>
 				<title>testing testing 1, 2, 3</title>
@@ -14,7 +14,9 @@
 				<pubDate>Sat, 05 Oct 2013 15:50:00 +0000</pubDate>
 				<author>crystal@skinnywhitegirl.com (Crystal Beasley)</author>
 				<guid isPermaLink="true">http://theheretic.me/2013/10/05/testing</guid>
-				<description>&lt;p&gt;Is this thing on?&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;/img/posts/2013-10-05-me.jpg&quot; alt=&quot;First test image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Is this thing on?&lt;/p&gt;
 </description>
 			</item>
 		
