@@ -16,5 +16,10 @@
 		<loc>http://theheretic.me/archive/</loc>
 		<changefreq>daily</changefreq>
 	</url>
+	
+	<url>
+		<loc>http://theheretic.me/2013/10/06/brussels-driss</loc>
+		<lastmod>2013-10-06</lastmod>
+	</url>
 	 
 </urlset>

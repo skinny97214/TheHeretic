@@ -5,12 +5,12 @@
 
 <div id="post">
 	<div class="row">
-		<div class="large-4 columns">
+		<div class="large-12 columns">
 			<h3>{{ page.title }}</h3>
+			{{ content }}
 			<a href="{{ site.baseurl }}archive/" class="small button"><i class="icon-folder-close"></i>Archive</a> <a href="http://twitter.com/share?url={{ site.url | escape }}{{ page.url | escape }}/&text=The Heretic: {{ page.title | escape }}" target="_blank" class="small button"><i class="icon-twitter"></i>Tweet</a>
 			</div>
-		<div class="large-8 columns">
-			{{ content }}
+			
 
 			<hr>
 
