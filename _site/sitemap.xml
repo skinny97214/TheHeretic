@@ -16,20 +16,5 @@
 		<loc>http://theheretic.me/archive/</loc>
 		<changefreq>daily</changefreq>
 	</url>
-	
-	<url>
-		<loc>http://theheretic.me/2013/11/12/phnompenh-madman</loc>
-		<lastmod>2013-11-12</lastmod>
-	</url>
-	
-	<url>
-		<loc>http://theheretic.me/2013/10/19/phnompenh-blessing</loc>
-		<lastmod>2013-10-19</lastmod>
-	</url>
-	
-	<url>
-		<loc>http://theheretic.me/2013/10/06/brussels-driss</loc>
-		<lastmod>2013-10-06</lastmod>
-	</url>
 	 
 </urlset>
