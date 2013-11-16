@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://theheretic.me/</loc>
+		<loc>http://personandplace.com/</loc>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://theheretic.me/about/</loc>
+		<loc>http://personandplace.com/about/</loc>
 		<changefreq>monthly</changefreq>
 	</url>
 	<url>
-		<loc>http://theheretic.me/disclaimer/</loc>
+		<loc>http://personandplace.com/disclaimer/</loc>
 		<changefreq>monthly</changefreq>
 	</url>
 	<url>
-		<loc>http://theheretic.me/archive/</loc>
+		<loc>http://personandplace.com/archive/</loc>
 		<changefreq>daily</changefreq>
 	</url>
 	

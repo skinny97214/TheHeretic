@@ -1,6 +1,6 @@
-name: The Heretic
-description: An opinionated Newsletter by Pascal Finette
-url: http://theheretic.me
+name: Person and Place
+description: Stories and images from the life of Crystal Beasley
+url: http://personandplace.com
 baseurl: /
 
 markdown: rdiscount
