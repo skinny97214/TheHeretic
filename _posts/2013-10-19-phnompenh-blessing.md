@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: PhnomPenh
+tags: SEAsia
 featured: 
 date: 2013-12-07 15:50:00
 title: Blessing, Phnom Penh

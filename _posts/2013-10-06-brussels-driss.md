@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Brussels, Europe
+tags: Europe
 featured: 
 date: 2013-12-02 15:50:00
 title: Driss, Brussels
