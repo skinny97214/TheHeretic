@@ -19,10 +19,10 @@ to do
 * mailchimp support for custom confirmation page
 * what is static.html for?
 * add face icon
-* design a proper logo
-* remove archive from nav (for now)
 
 DONE
+* design a proper logo
+* remove archive from nav (for now)
 * test the mailing template
 * test mailing list
 * add everyone into the mailing list
