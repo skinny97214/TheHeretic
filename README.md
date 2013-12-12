@@ -3,7 +3,7 @@ Person and Place Dot Com
 
 This repo contains the site at [http://personandplace](http://personandplace.com/) (an art and story newsletter by Crystal Beasley).
 
-Gratitude goes to the team at [ZURB](http://zurb.com/) for their excellent [Foundation CSS framework](http://foundation.zurb.com/); [Font Awesome](http://fortawesome.github.com/Font-Awesome/) for the fantastic icon font; [Ian Albert](http://ian-albert.com/hazmat_placards/) for creating a full set of Hazmat Placards.
+Gratitude goes to the team at [ZURB](http://zurb.com/) for their excellent [Foundation CSS framework](http://foundation.zurb.com/); [Font Awesome](http://fortawesome.github.com/Font-Awesome/) for the fantastic icon font; Pascal Finette for [The Heretic](http://theheretic.me), which I forked to make this.
 
 You should [subscribe to Person &amp; Place](http://personandplace.com/). It's fun and you'll be awesome.
 
@@ -18,6 +18,9 @@ to do
 * responsive images resize
 * mailchimp support for custom confirmation page
 * what is static.html for?
+* add face icon
+* design a proper logo
+* remove archive from nav (for now)
 
 DONE
 * test the mailing template
