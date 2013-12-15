@@ -19,6 +19,9 @@ to do
 * mailchimp support for custom confirmation page
 * what is static.html for?
 * add face icon
+* add tweet and fbook shares to end of email
+* make it more obvious it's from me
+* add retina graphics
 
 DONE
 * design a proper logo
