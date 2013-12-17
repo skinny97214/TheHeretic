@@ -12,17 +12,19 @@ Note to self: Images are multiples of 768x600 or 768x400.
 
 to do
 
-* hook up twitter auto posting
 * add in my analytics tag
-* responsive images resize
-* mailchimp support for custom confirmation page
+* responsive images resize for email
 * what is static.html for?
 * add tweet and fbook shares to end of email
-* make it more obvious it's from me
 * add retina graphics
 * on the post detail page, add "other posts tagged [same tag]"
+* facebook auto posting from IFTTT
 
 DONE
+
+* mailchimp support for custom confirmation page
+* make it more obvious it's from me
+* hook up twitter auto posting
 * fonts consistent w swg
 * add face icon
 * design a proper logo
