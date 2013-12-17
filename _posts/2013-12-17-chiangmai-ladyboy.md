@@ -2,7 +2,7 @@
 layout: post
 tags: SEAsia
 featured: 
-date: 2013-12-17 15:50:00
+date: 2013-12-16 00:00:00
 title: Ladyboy, Chiang Mai
 ---
 ![Ladyboy, Chiang Mai](http://personandplace.s3.amazonaws.com/2013-12-17-chiangmai-ladyboy.jpg)

@@ -14,16 +14,17 @@ to do
 
 * hook up twitter auto posting
 * add in my analytics tag
-* fonts consistent w swg
 * responsive images resize
 * mailchimp support for custom confirmation page
 * what is static.html for?
-* add face icon
 * add tweet and fbook shares to end of email
 * make it more obvious it's from me
 * add retina graphics
+* on the post detail page, add "other posts tagged [same tag]"
 
 DONE
+* fonts consistent w swg
+* add face icon
 * design a proper logo
 * remove archive from nav (for now)
 * test the mailing template
