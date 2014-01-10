@@ -3410,7 +3410,7 @@ a:hover.button {
       display: none; } }
 
 #headerHome {
-  background: url($url) no-repeat top center fixed;
+  background: url(../img/header-home.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3423,7 +3423,7 @@ a:hover.button {
     height: 324px; }
 
 #headerPost {
-  background: url($url) no-repeat top center fixed;
+  background: url(../img/header-post.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3431,7 +3431,7 @@ a:hover.button {
   min-height: 400px; }
 
 #headerArchive {
-  background: url($url) no-repeat top center fixed;
+  background: url(../img/header-archive.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3439,7 +3439,7 @@ a:hover.button {
   min-height: 400px; }
 
 #headerAbout {
-  background: url($url) no-repeat top center fixed;
+  background: url(../img/header-about.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3447,7 +3447,7 @@ a:hover.button {
   min-height: 600px; }
 
 #headerDisclaimer {
-  background: url($url) no-repeat top center fixed;
+  background: url(../img/header-about.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
