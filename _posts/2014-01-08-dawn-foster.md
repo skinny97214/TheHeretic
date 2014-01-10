@@ -1,12 +1,9 @@
 ---
 layout: post
-tags:
-featured:
-date: 2013-11-29 15:50:00
+date: 2014-01-08 00:00
 title: Ham Radio, Atari, and UNIX
 author: Dawn Foster
 ---
-
 
 [Source](http://fastwonderblog.com/2014/01/08/my-nerd-story-ham-radio-atari-and-unix/ "Permalink to Ham Radio, Atari, and UNIX « Fast Wonder")
 
