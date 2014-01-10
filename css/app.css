@@ -3537,7 +3537,6 @@ a:hover.button {
   padding: 2em 0; }
   @media only screen and (min-width:40.063em) {
     #footer {
-      background: url(../img/footer.gif) no-repeat right bottom;
       background-size: contain;
       background-color: #3e82c4; } }
   #footer a {
