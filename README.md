@@ -8,9 +8,23 @@ Gratitude goes to the team at [ZURB](http://zurb.com/) for their excellent [Foun
 Note to self: Images are multiples of 768x600 or 768x400.
 
 
-to do
+to do MVP
+* post summaries on home
+* shorten header
+* better image for posts
+* favicon
+* footer text
+* find resources for footer
+* remove manifesto
+* replace logo with text
+* improve layout on home
+* find/replace person & place for mynerdstory
 
-* author field
+
+LATER
+* big image specified by post author
+* new logo
 
 DONE
 
+* author field
