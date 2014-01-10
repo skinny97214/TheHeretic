@@ -3409,13 +3409,22 @@ a:hover.button {
     #masthead .mobile-only {
       display: none; } }
 
+#masthead h2 a {
+	 color: #222;
+}
+
+#masthead h2 a:hover {
+	color: #444;
+	text-decoration: none;
+}
+
 #headerHome {
   background: url(../img/header-home.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 600px; }
+  min-height: 300px; }
   #headerHome .row {
     padding-top: 9em; }
   #headerHome img {
@@ -3423,12 +3432,12 @@ a:hover.button {
     height: 324px; }
 
 #headerPost {
-  background: url(../img/header-post.jpg) no-repeat top center fixed;
+  background: url(../img/header-home.jpg) no-repeat top center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 400px; }
+  min-height: 300px; }
 
 #headerArchive {
   background: url(../img/header-archive.jpg) no-repeat top center fixed;
