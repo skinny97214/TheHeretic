@@ -1,6 +1,6 @@
-name: Person and Place
-description: Stories and images from the life of Crystal Beasley
-url: http://personandplace.com
+name: My Nerd Story
+description: Women in tech tell their origin stories.
+url: http://mynerdstory.org
 baseurl: /
 
 markdown: rdiscount
