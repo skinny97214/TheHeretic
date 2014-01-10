@@ -1,9 +1,10 @@
 ---
 layout: post
-tags: 
+tags:
 featured:
 date: 2013-11-29 15:50:00
 title: Ham Radio, Atari, and UNIX
+author: Dawn Foster
 ---
 
 
