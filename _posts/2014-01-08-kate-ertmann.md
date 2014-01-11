@@ -2,8 +2,9 @@
 layout: post
 date: 2014-01-08 00:00
 tags: English
-title:  My zig-zag path to a techcentric career
+title:  My Zig-zag Path to a Techcentric Career
 author: Kate Ertmann
+headshot: /img/posts/kate-ertmann.jpeg
 ---
 
 [Source](https://medium.com/mynerdstory-on-medium/8be57f4b9afe "Permalink to My zig-zag path to a techcentric career — #mynerdstory on Medium — Medium")

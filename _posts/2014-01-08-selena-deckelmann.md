@@ -4,6 +4,7 @@ date: 2014-01-08 00:00
 tags: English
 title: It Ran In The Family, But Wasn’t Inevitable
 author: Selena Deckelmann
+headshot: /img/posts/selena-deckelmann.png
 ---
 
 [Source](http://www.chesnok.com/daily/2014/01/08/my-nerd-story-it-ran-in-the-family/ "Permalink to it ran in the family, but wasn’t inevitable")
