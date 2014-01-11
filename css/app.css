@@ -3567,3 +3567,13 @@ a:hover.button {
   color: #333333;
   padding: 0 3px;
   border-radius: 3px; }
+
+img.headshot {
+	width: 60px;
+	height: 60px;
+	float: right;
+}
+
+.postlist {
+	margin-bottom: 30px;
+}

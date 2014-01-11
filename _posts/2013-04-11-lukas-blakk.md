@@ -1,8 +1,10 @@
 ---
 layout: post
 date: 2013-04-11 00:00
+tags: English
 title: Getting Women Hooked into Open Source | Anita's Quilt
 author: Lukas Blakk
+headshot: http://anitasquilt.files.wordpress.com/2013/02/lukas_profile_180.jpg
 ---
 
 [Source](http://anitasquilt.org/2013/04/11/getting-women-hooked-into-open-source/ "Permalink to Getting Women Hooked into Open Source | Anita's Quilt")
@@ -12,7 +14,7 @@ author: Lukas Blakk
 
 I’m a late-arrival to the booming tech scene in the Bay Area. Due to many reasons including being raised by a working-poor single mother, leaving home early, finishing high school while collecting welfare, and then having no knowledge of Canada’s student loan program culminated in not following a direct route to higher education.
 
-I was always interested in computers and jumped on them whenever there was a chance. In grade 6 we would be bussed once a week to a nearby high school that had a computer lab with ![Icon computers ][3] and I have journal entires from that time – written to my teacher – where I beg her to let me switch lab partners because “Roxanne and I fight over the mouse, we’re both too good with the computer”. I find it hilarious that my proposed solution was to get partnered with someone who was less skilled so I could grab more time on the controls. This is very much the opposite of what I try to do now.
+I was always interested in computers and jumped on them whenever there was a chance. In grade 6 we would be bussed once a week to a nearby high school that had a computer lab with [Icon computers ][3] and I have journal entires from that time – written to my teacher – where I beg her to let me switch lab partners because “Roxanne and I fight over the mouse, we’re both too good with the computer”. I find it hilarious that my proposed solution was to get partnered with someone who was less skilled so I could grab more time on the controls. This is very much the opposite of what I try to do now.
 
 Skipping forward to the bright future I never could have imagined: I returned to school in my 29th year. After working as a nanny, a brunch chef, and at non-profit artist-run centers in Toronto I knew I needed something more akin to a ‘career’ and that I would like it if computers and technology were involved. Thanks to parental support I was able to work part time and attend Seneca College full time doing a 4 year bachelor’s degree in Software Development. Along with the usual classes I detoured into Open Source which ended up being the most important part of this degree to my life today.
 

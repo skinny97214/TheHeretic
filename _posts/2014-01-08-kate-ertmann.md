@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2014-01-08 00:00
+tags: English
 title:  My zig-zag path to a techcentric career
 author: Kate Ertmann
 ---
