@@ -7,6 +7,7 @@ Gratitude goes to the team at [ZURB](http://zurb.com/) for their excellent [Foun
 
 Note to self: Images are multiples of 768x600 or 768x400.
 
+test
 
 to do MVP
 * post summaries on home
