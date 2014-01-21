@@ -3,7 +3,7 @@ layout: post
 tags: SEAsia
 featured: 
 date: 2014-01-21 00:00:00
-title: Saffron robe, Phnom Pehn
+title: Saffron Robe, Phnom Pehn
 ---
 ![Saffron robes of Therevada monk in Phnom Penh](http://personandplace.s3.amazonaws.com/2014-01-21-phnompenh-monk.jpg)
 
